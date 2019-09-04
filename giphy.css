@@ -9,7 +9,7 @@ h1{
 
 .jumbotron {
     background-color: rgb(3, 129, 175);
-    background-image: url("source.gif");
+    background-image: url("pill.gif");
     justify-content: center;
     /* background-size: contain; */
     background-size: 72% 96%;
